@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "mildly interested"
+date:   2020-05-11 22:54:00 -0400
+categories: blogplost 
+---
+
+This blog place will log my encounter of rabbit holes and mildly interesting topics in scientific publications that are fascinating, but sadly I don't feel that engaged to dive in. I'll try to only provide subjective commenting when a) I have some knowledge about the topic and know what I'm saying, or b) the comments are compeltely not scientific. 
